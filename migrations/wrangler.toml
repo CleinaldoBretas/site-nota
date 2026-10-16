@@ -1,0 +1,8 @@
+name = "site-notas"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "notas-db"
+database_id = "5ceb8601-e2a7-40b4-af01-67eb9d0a41fc"
